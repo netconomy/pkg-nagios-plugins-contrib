@@ -1,0 +1,7 @@
+Homepage: https://github.com/forward3d/nagios-plugins/tree/master/haproxy
+Watch: https://github.com/forward3d/nagios-plugins/tree/master/haproxy
+Recommends: liblocale-gettext-perl, liblwp-useragent-determined-perl
+Depends: ruby
+Version: rev1
+Uploaders: Robert Bartl <robert@edv-bartl.at>
+Description: plugin to check the HAProxy statistics url
